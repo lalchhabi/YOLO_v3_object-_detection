@@ -9,4 +9,6 @@ model.
 For Pretrained model:
 Here 'yolov3-320.cfg' & 'yolov3-tiny.cfg' are used as a pretrained model for object detection.
 
+Link for all the pretrained and custom models:- 
+https://drive.google.com/drive/folders/14aWWVQ7aqnxihR2jXm7QE271aARy94hM?usp=sharing
 
