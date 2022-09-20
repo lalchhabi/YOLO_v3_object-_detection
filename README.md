@@ -7,6 +7,6 @@ Then trained custom dataset using yolov3 and get the trained model/weights: 'yol
 model. 
 
 For Pretrained model:
-Here we use 'yolov3-320.cfg' & 'yolov3-tiny.cfg' as a pretrained model for object detection.
+Here 'yolov3-320.cfg' & 'yolov3-tiny.cfg' are used as a pretrained model for object detection.
 
 
